@@ -11,6 +11,21 @@ body {
     margin: 0px;
 }
 
+img {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+button {
+    width: 90px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: #3882F6;
+    color: white;
+}
+
 .header {
     display: flex;
     align-items: first baseline;
@@ -45,16 +60,6 @@ body {
     color: #E5E7EB;
 }
 
-img {
+.Section2 {
     display: flex;
-    flex-shrink: 0;
-    flex-grow: 0;
-}
-button {
-    width: 90px;
-    height: 20px;
-    border-radius: 5px;
-    padding: 2px;
-    background-color: #3882F6;
-    color: white;
 }
