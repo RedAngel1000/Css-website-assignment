@@ -90,7 +90,8 @@ button {
 .Section3{
     display: flex;
     flex-direction: column;
-    margin: 40px;
+    margin: 50px 140px;
+    gap: -10px;
 }
 
 .Section4 {
