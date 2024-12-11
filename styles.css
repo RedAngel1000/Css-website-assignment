@@ -51,8 +51,7 @@ button {
     flex-wrap: nowrap;
     flex: auto;
     flex-direction: row;
-    padding-left: 70px;
-    padding-right: 70px;
+    padding: 70px 30px;
     align-items: center;
     gap: 5px 40px;
     background-color: #1F2937;
