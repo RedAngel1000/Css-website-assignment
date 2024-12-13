@@ -120,4 +120,9 @@ button {
     justify-content: space-between;
     background-color: #1F2937;
     color: white;
+    gap: 20px;
+}
+
+.infotext {
+    font-size: 15px;
 }
