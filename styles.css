@@ -118,4 +118,6 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #1F2937;
+    color: white;
 }
