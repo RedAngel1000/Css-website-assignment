@@ -48,7 +48,7 @@ button {
     flex-wrap: nowrap;
     flex: auto;
     flex-direction: row;
-    padding: 70px 30px;
+    padding: 30px 70px;
     align-items: center;
     gap: 5px 40px;
     background-color: #1F2937;
